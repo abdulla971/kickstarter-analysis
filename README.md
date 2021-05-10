@@ -27,7 +27,7 @@ The data was filtered by theater data as request by the client. Moreover, the li
 
 The live outcomes were filtered again at this stage. This time the client's is interested in the plays subcategory, therefore filters were used here as well. To focus on the goals they were categorized into groups of $5000; for each category the total number of successful, failed, and canceled outcomes were determined and converted into percentages to be used for the graph and analysis.
 
-![Outcomes_vs_Goals.png]((resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
