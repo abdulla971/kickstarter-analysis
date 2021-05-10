@@ -21,13 +21,13 @@ It was realized that the for successful outcomes we must focus on launch dates a
 ### Analysis of Outcomes Based on Launch Date
 The data was filtered by theater data as request by the client. Moreover, the live outcomes were filtered out of the data set. It can be seen from the graph below that the highest number of successful outcomes occurs around the months of May and June.
 
-![Graph 1. Theater Outcomes based on Launch Dates](Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 The live outcomes were filtered again at this stage. This time the client's is interested in the plays subcategory, therefore filters were used here as well. To focus on the goals they were categorized into groups of $5000; for each category the total number of successful, failed, and canceled outcomes were determined and converted into percentages to be used for the graph and analysis.
 
-![Graph 2. Percent of Outcomes Based on Goal Ranges](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png]((resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
